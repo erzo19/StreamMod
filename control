@@ -1,0 +1,11 @@
+Package: com.erzo19.streammod
+Name: StreamMod by erzo19
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Easy-to-integrate stream mode library for iOS game mods. Hide sensitive information during broadcasts while maintaining full functionality.
+Maintainer: erzo19 <erzohack@telegram.org>
+Author: erzo19 <erzohack@telegram.org>
+Section: Development
+Depends: firmware (>= 12.0)
+Homepage: https://github.com/erzo19/StreamMod
+Tag: role::developer
